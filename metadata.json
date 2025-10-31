@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Data Ops Assistant",
+  "description": "An agentic data operations assistant that ingests structured files (CSV/JSON), performs automatic data profiling, executes row/column-based user commands, maps product text to controlled categories, and offers feature augmentation capabilities.",
+  "requestFramePermissions": []
+}
